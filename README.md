@@ -1,7 +1,7 @@
 # Project+ / REX Updater for Steam Deck/Linux
 GUI application for Steam Deck/Linux that downloads, updates, and manages [Project+](https://projectplusgame.com/) and [REX](https://www.rexbuild.site/). Easily switch between P+ or REX builds, download/install HD textures for each, support for GameCube controller adapter overclocking (based on [this script](https://github.com/the-outcaster/gcadapter-oc-kmod-deck)), application shortcuts, and more!
 
-![Screenshot](https://i.imgur.com/Z8PCauk.png)
+![Screenshot](https://i.imgur.com/cDB0whH.png)
 
 Unofficial REX builds for Linux are hosted [here](https://github.com/the-outcaster/rex-for-linux).
 
