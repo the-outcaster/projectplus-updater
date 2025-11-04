@@ -65,7 +65,7 @@ class PPlusLauncher(QWidget):
         location_box.setLayout(location_layout)
         main_layout.addWidget(location_box)
 
-        game_box = QGroupBox("Select Game")
+        game_box = QGroupBox("Select Mod")
         game_layout = QVBoxLayout()
 
         self.project_plus_radio = QRadioButton("Project+")
